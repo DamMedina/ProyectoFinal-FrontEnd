@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CV Viewer</title>
+</head>
+
+<body>
+   
+<h1 id="main_tit">CV Viewer</h1>
+
+<div id="menu" class="contenedor3">
+    <h2>Bienvenido a CV VIEWER!</h2>
+    <P><b>Por favor haga click en "Ver Perfiles" para visualizar CVs</b></P>
+    <div class="boton">
+        <button id="boton">Ver PERFILES <i class="fa-regular fa-user"></i> </button>
+    </div>
+    <br>
+    <p><b>Dado que es una DEMO, la información de los CVs se cargan de manera aleatoria y cambiaran en cada consulta.</b></p>
+    <br>
+    
+</div>
+
+
+<div class="contenedor" id="perfiles" style="display: none;">
+        <img src="" alt="perfil de usuario" id="foto" margin="5px" style="border: 3px solid black">
+        <h2><i class="fa-solid fa-id-card"></i> Nombre: <span id="nombre"></span>    <span id="apellido"></span></h2>
+        <p><b>Nacionalidad: </b> <span id="nacionalidad"></span>  |  <b>Edad: </b> <span id="edad"></span></p>
+
+        
+        <div class="contenedor2">
+         <p><b><i class="fa-solid fa-location-dot"></i> Dirección: </b>  <span id="direccion"></span>  <b>Numero :</b><span id="altura"></span></p>
+         <p><b>Ciudad: </b> <span id="city"></span>  <b>Provincia/Estado: </b>
+              <span id="prov"></span></p>
+         <p><b>C.P: </b><span id="CP"></span>  <b>País: </b><span id="pais"></span></p>
+
+        </div>
+        
+        <div class="contenedor2">
+        <h4>Datos de contacto</h4> 
+        <p><b><i class="fa-sharp fa-solid fa-phone"></i>  Tel:</b><span id="telefono"></span> | <b><i class="fa-solid fa-mobile"></i>  Celular:</b><span id="celu"></span></span></p>
+        <p><b><i class="fa-solid fa-envelope"></i> E-mail: </b><span id="email"></span></p>
+
+        </div>
+        <br>
+        <div id="botonera" class="contenedor4">
+        <p><button id="estudios">Ver Estudios</button>
+            <button id="exp">Exp Laboral</button>
+            <button id="habilidades">Habilidades</button>
+            <button id="ocultar">Ocultar</button>
+
+        </div>
+        <br> 
+        <div class="contenedor2" id="seccion_estudios" style="display: none;">
+            <br> 
+            <h3 class="h32">Estudios <i class="fa-solid fa-graduation-cap"></i></h3>
+            <br>
+            <h4 class="subtitulos">Primaria</h4>
+            <p><b>Nombre: </b><span id="primaria_nombre"></span>  | <b>Cursada entre: </b><span id="p_años"></span></p>
+            <p><b><i class="fa-solid fa-location-dot"></i>  Direccion:</b> <span id="primaria_dir"></span>        <b>Altura: </b><span id="primaria_alt"></span></p>
+            <p><b>Ciudad: </b><span id="primaria_ciudad"> </span>      <b>Provincia: </b><span id="primaria_prov"></span>      <b>País:</b> <span id="primaria_pais"></span></p>
+            
+            <br>
+            <img src="Imagenes/separador.png">
+            <br>
+            <br>
+
+            <h4>Secundaria</h4>
+            <p><b>Nombre: </b><span id="secundaria_nombre"></span>  | <b>Cursada entre: </b><span id="s_años"></span></p>
+            <p><b><i class="fa-solid fa-location-dot"></i>  Direccion:</b> <span id="secundaria_dir"></span>        <b>Altura: </b><span id="secundaria_alt"></span></p>
+            <p><b>Ciudad: </b><span id="secundaria_ciudad"> </span>      <b>Provincia: </b><span id="secundaria_prov"></span>      <b>País:</b> <span id="secundaria_pais"></span></p>
+            
+            <br>
+            <img src="Imagenes/separador.png">
+            <br>
+            <br>
+
+            <h4>Universitarios</h4>
+            <p><b>Nombre:</b> <span id="u_nombre"></span> | <b>Cursada entre:</b> <span id="u_años"></span></p>
+            <p><b><i class="fa-solid fa-location-dot"></i>  Direccion:</b> <span id="univ_dir"></span>       <b>Altura:</b> <span id="univ_alt"></span></p>
+            <p><b>Ciudad: </b><span id="univ_ciudad"> </span>       <b>Provincia:</b> <span id="univ_prov"></span>       <b>País:</b> <span id="univ_pais"></span></p>
+            <br>
+        </div>
+        
+        <div class="contenedor2" id="seccion_exp" style="display: none;">
+            <br> 
+            <h3 class="h32">Experiencia Laboral <i class="fa-solid fa-briefcase"></i> </h3>
+            <br>
+            <h3 class="h3SN"><span id="trabajo1_nombre"></span></h3>
+            <p><b>Años Trabajados: </b><span id="t1_años"></span></p>
+            <p><b>Puesto: </b><span id="trabajo1_puesto"></span></p>
+            <p><b>Tareas Desempeñadas: </b><span id="trabajo1_info"></span></p>
+            <br>
+            <p><b><i class="fa-solid fa-location-dot"></i>  Direccion:</b> <span id="trabajo1_dir"></span>        <b>Altura: </b><span id="trabajo1_alt"></span></p>
+            <p><b>Ciudad: </b><span id="trabajo1_ciudad"> </span>      <b>Provincia: </b><span id="trabajo1_prov"></span>     
+                <b>País:</b> <span id="trabajo1_pais"></span></p>
+            
+            
+            <br>
+            <img src="Imagenes/separador.png">
+            <br>
+            <br>
+            <h3 class="h3SN"><span id="trabajo2_nombre"></span></h3>
+            <p><b>Ejercido entre: </b><span id="t2_años"></span></p>
+            <p><b>Puesto: </b><span id="trabajo2_puesto"></span></p>
+            <p><b>Tareas Desempeñadas: </b><span id="trabajo2_info"></span></p>
+            <br>
+            <p><b><i class="fa-solid fa-location-dot"></i>  Direccion:</b> <span id="trabajo2_dir"></span>        <b>Altura: </b><span id="trabajo2_alt"></span></p>
+            <p><b>Ciudad: </b><span id="trabajo2_ciudad"> </span>      <b>Provincia: </b><span id="trabajo2_prov"></span>     
+                <b>País:</b> <span id="trabajo2_pais"></span></p>
+            <br>
+        </div>
+        <br>
+        <div class="contenedor2" id="seccion_habilidades" style="display: none;">
+            <br>
+            <h3 class="h32">Habilidades  <i class="fa-solid fa-folder"></i></i></h3>
+            <br>
+            <p><b>Manejo de Idiomas: </b><span id="idiom"></span></p>
+            <p><b>Manejo de Software: </b><span id="software"></span></p>
+            <p><b>Otros: </b><span id="otros"></span></p>
+            <br>
+            
+        </div>
+
+      
+</div>
+<br>
+<br>
+
+<div class="creditos">
+    CV-viewer© demo v.0.1 - 2023
+    <br>
+    Designed by Damián Medina.
+</div>
+<script src="pfinal.js"></script>
+<script src="https://kit.fontawesome.com/c8b91b81f5.js" crossorigin="anonymous"></script>
+</body>
+</html>

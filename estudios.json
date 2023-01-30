@@ -1,0 +1,805 @@
+[
+  {
+    "id": 0,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Tecnicatura Alfredo Fetuccini",
+          "Años_Cursados":"2015 - 2022",
+          "Estado":"Completo",
+          "Titulo":"Tec. Profecional en Termos",
+          "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "Provincia": "Neuquen",
+            "Pais": "Argentina"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"SILLAS FLEX, S.A",
+               "Años_Trabajados":"2018 - Actualidad",
+                "Puesto":"Gerente",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla. Mauris non fermentum magna, nec fermentum erat. Sed sagittis accumsan ultrices. Cras ut lacinia lorem. Proin at nulla viverra eros posuere malesuada. In tincidunt magna magna, nec malesuada mi suscipit pulvinar. Fusce varius magna nec dui placerat, sit amet vulputate justo ultrices. Vivamus eu venenatis mi. Nulla id placerat tellus, ut iaculis sapien. Ut euismod, ex nec ultricies fringilla, ligula arcu porttitor ante, et vestibulum massa lorem sed nisi. Nam dictum lorem mollis quam condimentum viverra. Integer in rhoncus nulla, quis volutpat mauris. Mauris interdum bibendum egestas. Pellentesque venenatis, dolor nec hendrerit accumsan, velit justo maximus massa, vitae viverra quam metus quis sem. Phasellus cursus dui quis pulvinar ultricies. Phasellus interdum ligula eros, at interdum lacus vulputate in.suhfidsuhfdisfdskfhdskjsfkjdsfkdhkjdsf",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 1,
+    "Primaria": {
+      "Nombre":"EGB 15",
+      "Años_Cursados": " 1920 - 1987",
+      "street": "Sarandi",
+      "suite": "800",
+      "city": "Varvarin",
+      "Provincia": "Central Banat",
+      "Pais": "Serbia",
+      "zipcode": "57772"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria Abdul Alhzred",
+          "Años_Cursados":" 1988 - 1995",
+          "Estado":"Completo",
+          "Titulo":"Ecoconia",
+          "street": "Diagonal Veracruz de Ignacio de la Llave",
+            "suite": "2113",
+            "city": "Abasolo",
+            "Provincia": "Campeche",
+            "Pais": "Mexico",
+            "zipcode": "22140"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Universidad of Michimiau",
+          "Años_Cursados":"2001 - 2009",
+          "Estado":"Completo",
+          "Titulo":"Lic. Sorbetes",
+          "street": "West Street",
+            "suite": "546",
+            "city": "Offaly",
+            "Provincia": "Offaly",
+            "Pais": "Ireland"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"TRUESTAR.",
+               "Años_Trabajados":"2010 - 2020",
+                "Puesto":"Asesoria",
+                "Info":"",
+               "street": "Mogens Thorsens gate",
+               "suite": "654",
+               "city": "GraEEnd",
+                "Provincia": "Telemark",
+                "Pais": "Norway"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - Actualidad",
+                "Puesto":"Gerente General",
+                "Info":"Ut laoreet lobortis mauris sit amet egestas. Curabitur faucibus condimentum leo in tristique. Nullam lobortis facilisis tempor. Sed rhoncus nulla congue turpis mattis, auctor interdum erat commodo. Sed tristique, nisl nec hendrerit venenatis, neque tellus placerat turpis, sit amet tempus quam dolor a nulla",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Guaraní",
+              "software": "Paquete Office - Avanzado",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 2,
+    "Primaria": {
+      "Nombre":"EGB Nº666",
+      "Años_Cursados": " 1979 - 1983",
+      "street": "Rogelio Buendia",
+      "suite": "4475",
+      "city": "Juarez",
+      "Provincia": "D.F",
+      "Pais": "Mexico",
+      "zipcode": "78954Z"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria Nº 79",
+          "Años_Cursados":" 1984 - 1991",
+          "Estado":"Completo",
+          "Titulo":"Especialización en RRHH",
+          "street": "Presto",
+            "suite": "98",
+            "city": "Yerba Buena",
+            "Provincia": "D.F",
+            "Pais": "Mexico",
+            "zipcode": "78954B"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Universidad de Juarez",
+          "Años_Cursados":"1993 - 2000",
+          "Estado":"Completo",
+          "Titulo":"Asistente Terapeutica",
+          "street": "Ribarola",
+            "suite": "25",
+            "city": "Hamburg",
+            "Provincia": "Rio Ceballos",
+            "Pais": "Mexico"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"Lalo Salamnca, ltd",
+               "Años_Trabajados":"2001 - 2010",
+                "Puesto":"Administrativa",
+                "Info":"idLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla.",
+               "street": "Tercero",
+               "suite": "1592",
+               "city": "Albuquerque",
+                "Provincia": "Albuquerque",
+                "Pais": "USA"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"Los Pollos Primos S.A.",
+               "Años_Trabajados":"2012 - Actualidad",
+                "Puesto":"JefE RRHH",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla. Mauris non fermentum magna, nec fermentum erat. Sed sagittis accumsan ultrices. Cras ut lacinia lorem. Proin at nulla viverra eros posuere malesuada. In tincidunt magna magna, nec malesuada mi suscipit pulvinar. Fusce varius magna nec dui placerat, sit amet vulputate justo ultrices. Vivamus eu venenatis mi. Nulla id placerat tellus, ut iaculis sapien. Ut euismod, ex nec ultricies fringilla, ligula arcu porttitor ante, et vestibulum massa lorem sed nisi. Nam dictum lorem mollis quam condimentum viverra. Integer in rhoncus nulla, quis volutpat mauris. Mauris interdum bibendum egestas. Pellentesque venenatis, dolor nec hendrerit accumsan, velit justo maximus massa, vitae viverra quam metus quis sem. Phasellus cursus dui quis pulvinar ultricies. Phasellus interdum ligula eros, at interdum lacus vulputate in.suhfidsuhfdisfdskfhdskjsfkjdsfkdhkjdsf",
+               "street": "Santaolalla",
+               "suite": "s/n",
+               "city": "Montana",
+                "Provincia": "Themisira",
+                "Pais": "USA"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Italiano intermedio",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Capacidad resolutiva."
+    
+  }},
+  {
+    "id": 3,
+    "Primaria": {
+      "Nombre":"EGB 185",
+      "Años_Cursados": " 2005 - 2015",
+      "street": "Playland",
+      "suite": "879",
+      "city": "Ricocha",
+      "Provincia": "Banana Central",
+      "Pais": "Mongolia",
+      "zipcode": "789i"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Morteros Unidos del Oriente",
+          "Años_Cursados":"2016 - 2020",
+          "Estado":"Incompleto",
+          "Titulo":"-",
+          "street": "El Conquer",
+            "suite": "254",
+            "city": "Pernoreto",
+            "Provincia": "Jin Zuang",
+            "Pais": "Mongolia",
+            "zipcode": "4785"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"-",
+          "Años_Cursados":"-",
+          "Estado":"-",
+          "Titulo":"-",
+          "street": "-",
+            "suite": "-",
+            "city": "-",
+            "Provincia": "-",
+            "Pais": "-"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"No posee",
+               "Años_Trabajados":"No posee",
+                "Puesto":"No posee",
+                "Info":"No posee",
+               "street": "No posee",
+               "suite": "No posee",
+               "city": "No posee",
+                "Provincia": "No posee",
+                "Pais": "No posee"},
+      "trabajo_2":{
+        "OK":"true",
+        "Nombre":"No posee",
+        "Años_Trabajados":"No posee",
+         "Puesto":"No posee",
+         "Info":"No posee",
+        "street": "No posee",
+        "suite": "No posee",
+        "city": "No posee",
+         "Provincia": "No posee",
+         "Pais": "No posee"}},
+
+      "habilidades":{
+              "idiomas":"Español, Chino",
+              "software": "JAva",
+              "otros": "No posee"
+    
+  }},
+  {
+    "id": 4,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"No posee",
+          "Años_Cursados":" ",
+          "Estado":"No posee",
+          "Titulo":" ",
+          "street": " ",
+            "suite": " ",
+            "city": " ",
+            "Provincia": " ",
+            "Pais": " "
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"No posee",
+               "Años_Trabajados":" ",
+                "Puesto":" ",
+                "Info":" ",
+               "street": " ",
+               "suite": " ",
+               "city": " ",
+                "Provincia": " ",
+                "Pais": " "}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 5,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Tecnicatura Alfredo Fetuccini",
+          "Años_Cursados":"2015 - 2022",
+          "Estado":"Completo",
+          "Titulo":"Tec. Profecional en Termos",
+          "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "Provincia": "Neuquen",
+            "Pais": "Argentina"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"SILLAS FLEX, S.A",
+               "Años_Trabajados":"2018 - Actualidad",
+                "Puesto":"Gerente",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla. Mauris non fermentum magna, nec fermentum erat. Sed sagittis accumsan ultrices. Cras ut lacinia lorem. Proin at nulla viverra eros posuere malesuada. In tincidunt magna magna, nec malesuada mi suscipit pulvinar. Fusce varius magna nec dui placerat, sit amet vulputate justo ultrices. Vivamus eu venenatis mi. Nulla id placerat tellus, ut iaculis sapien. Ut euismod, ex nec ultricies fringilla, ligula arcu porttitor ante, et vestibulum massa lorem sed nisi. Nam dictum lorem mollis quam condimentum viverra. Integer in rhoncus nulla, quis volutpat mauris. Mauris interdum bibendum egestas. Pellentesque venenatis, dolor nec hendrerit accumsan, velit justo maximus massa, vitae viverra quam metus quis sem. Phasellus cursus dui quis pulvinar ultricies. Phasellus interdum ligula eros, at interdum lacus vulputate in.suhfidsuhfdisfdskfhdskjsfkjdsfkdhkjdsf",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 6,
+    "Primaria": {
+      "Nombre":"EGB 15",
+      "Años_Cursados": " 1920 - 1987",
+      "street": "Sarandi",
+      "suite": "800",
+      "city": "Varvarin",
+      "Provincia": "Central Banat",
+      "Pais": "Serbia",
+      "zipcode": "57772"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria Abdul Alhzred",
+          "Años_Cursados":" 1988 - 1995",
+          "Estado":"Completo",
+          "Titulo":"Ecoconia",
+          "street": "Diagonal Veracruz de Ignacio de la Llave",
+            "suite": "2113",
+            "city": "Abasolo",
+            "Provincia": "Campeche",
+            "Pais": "Mexico",
+            "zipcode": "22140"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Universidad of Michimiau",
+          "Años_Cursados":"2001 - 2009",
+          "Estado":"Completo",
+          "Titulo":"Lic. Sorbetes",
+          "street": "West Street",
+            "suite": "546",
+            "city": "Offaly",
+            "Provincia": "Offaly",
+            "Pais": "Ireland"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"TRUESTAR.",
+               "Años_Trabajados":"2010 - 2020",
+                "Puesto":"Asesoria",
+                "Info":"",
+               "street": "Mogens Thorsens gate",
+               "suite": "654",
+               "city": "GraEEnd",
+                "Provincia": "Telemark",
+                "Pais": "Norway"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - Actualidad",
+                "Puesto":"Gerente General",
+                "Info":"Ut laoreet lobortis mauris sit amet egestas. Curabitur faucibus condimentum leo in tristique. Nullam lobortis facilisis tempor. Sed rhoncus nulla congue turpis mattis, auctor interdum erat commodo. Sed tristique, nisl nec hendrerit venenatis, neque tellus placerat turpis, sit amet tempus quam dolor a nulla",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Guaraní",
+              "software": "Paquete Office - Avanzado",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 7,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Tecnicatura Alfredo Fetuccini",
+          "Años_Cursados":"2015 - 2022",
+          "Estado":"Completo",
+          "Titulo":"Tec. Profecional en Termos",
+          "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "Provincia": "Neuquen",
+            "Pais": "Argentina"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"SILLAS FLEX, S.A",
+               "Años_Trabajados":"2018 - Actualidad",
+                "Puesto":"Gerente",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla. Mauris non fermentum magna, nec fermentum erat. Sed sagittis accumsan ultrices. Cras ut lacinia lorem. Proin at nulla viverra eros posuere malesuada. In tincidunt magna magna, nec malesuada mi suscipit pulvinar. Fusce varius magna nec dui placerat, sit amet vulputate justo ultrices. Vivamus eu venenatis mi. Nulla id placerat tellus, ut iaculis sapien. Ut euismod, ex nec ultricies fringilla, ligula arcu porttitor ante, et vestibulum massa lorem sed nisi. Nam dictum lorem mollis quam condimentum viverra. Integer in rhoncus nulla, quis volutpat mauris. Mauris interdum bibendum egestas. Pellentesque venenatis, dolor nec hendrerit accumsan, velit justo maximus massa, vitae viverra quam metus quis sem. Phasellus cursus dui quis pulvinar ultricies. Phasellus interdum ligula eros, at interdum lacus vulputate in.suhfidsuhfdisfdskfhdskjsfkjdsfkdhkjdsf",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 8,
+    "Primaria": {
+      "Nombre":"EGB 15",
+      "Años_Cursados": " 1920 - 1987",
+      "street": "Sarandi",
+      "suite": "800",
+      "city": "Varvarin",
+      "Provincia": "Central Banat",
+      "Pais": "Serbia",
+      "zipcode": "57772"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria Abdul Alhzred",
+          "Años_Cursados":" 1988 - 1995",
+          "Estado":"Completo",
+          "Titulo":"Ecoconia",
+          "street": "Diagonal Veracruz de Ignacio de la Llave",
+            "suite": "2113",
+            "city": "Abasolo",
+            "Provincia": "Campeche",
+            "Pais": "Mexico",
+            "zipcode": "22140"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Universidad of Michimiau",
+          "Años_Cursados":"2001 - 2009",
+          "Estado":"Completo",
+          "Titulo":"Lic. Sorbetes",
+          "street": "West Street",
+            "suite": "546",
+            "city": "Offaly",
+            "Provincia": "Offaly",
+            "Pais": "Ireland"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"TRUESTAR.",
+               "Años_Trabajados":"2010 - 2020",
+                "Puesto":"Asesoria",
+                "Info":"",
+               "street": "Mogens Thorsens gate",
+               "suite": "654",
+               "city": "GraEEnd",
+                "Provincia": "Telemark",
+                "Pais": "Norway"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - Actualidad",
+                "Puesto":"Gerente General",
+                "Info":"Ut laoreet lobortis mauris sit amet egestas. Curabitur faucibus condimentum leo in tristique. Nullam lobortis facilisis tempor. Sed rhoncus nulla congue turpis mattis, auctor interdum erat commodo. Sed tristique, nisl nec hendrerit venenatis, neque tellus placerat turpis, sit amet tempus quam dolor a nulla",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Guaraní",
+              "software": "Paquete Office - Avanzado",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 9,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Tecnicatura Alfredo Fetuccini",
+          "Años_Cursados":"2015 - 2022",
+          "Estado":"Completo",
+          "Titulo":"Tec. Profecional en Termos",
+          "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "Provincia": "Neuquen",
+            "Pais": "Argentina"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"SILLAS FLEX, S.A",
+               "Años_Trabajados":"2018 - Actualidad",
+                "Puesto":"Gerente",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit.",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 10,
+    "Primaria": {
+      "Nombre":"Escuela Patizambo N°3",
+      "Años_Cursados": " 1985 - 1999",
+      "street": "Av. Limbo",
+      "suite": "3789",
+      "city": "Suarez",
+      "Provincia": "Buenos Aires",
+      "Pais": "Argentina",
+      "zipcode": "1487"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria EET N°1",
+          "Años_Cursados":" 1999 - 2015",
+          "Estado":"Completo",
+          "Titulo":"Administración de Empresas",
+          "street": "Atilio",
+            "suite": "1077",
+            "city": "Monte Grande",
+            "Provincia": "Buenos Aires",
+            "Pais": "Argentina",
+            "zipcode": "1789"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Tecnicatura Alfredo Fetuccini",
+          "Años_Cursados":"2015 - 2022",
+          "Estado":"Completo",
+          "Titulo":"Tec. Profecional en Termos",
+          "street": "Kulas Light",
+            "suite": "Apt. 556",
+            "city": "Gwenborough",
+            "Provincia": "Neuquen",
+            "Pais": "Argentina"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - 2018",
+                "Puesto":"técnico",
+                "Info":"Control de fabricacion",
+               "street": "Misterio",
+               "suite": "308",
+               "city": "Guillon",
+                "Provincia": "Chaco",
+                "Pais": "Argentina"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"SILLAS FLEX, S.A",
+               "Años_Trabajados":"2018 - Actualidad",
+                "Puesto":"Gerente",
+                "Info":"uidLorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempor libero non bibendum fringilla. Mauris non fermentum magna, nec fermentum erat. Sed sagittis accumsan ultrices. Cras ut lacinia lorem. Proin at nulla viverra eros posuere malesuada. In tincidunt magna magna, nec malesuada mi suscipit pulvinar. Fusce varius magna nec dui placerat, sit amet vulputate justo ultrices. Vivamus eu venenatis mi. Nulla id placerat tellus, ut iaculis sapien. Ut euismod, ex nec ultricies fringilla, ligula arcu porttitor ante, et vestibulum massa lorem sed nisi. Nam dictum lorem mollis quam condimentum viverra. Integer in rhoncus nulla, quis volutpat mauris. Mauris interdum bibendum egestas. Pellentesque venenatis, dolor nec hendrerit accumsan, velit justo maximus massa, vitae viverra quam metus quis sem. Phasellus cursus dui quis pulvinar ultricies. Phasellus interdum ligula eros, at interdum lacus vulputate in.suhfidsuhfdisfdskfhdskjsfkjdsfkdhkjdsf",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Frances",
+              "software": "Paquete Office - Intermedio",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }},
+  {
+    "id": 11,
+    "Primaria": {
+      "Nombre":"EGB 15",
+      "Años_Cursados": " 1920 - 1987",
+      "street": "Sarandi",
+      "suite": "800",
+      "city": "Varvarin",
+      "Provincia": "Central Banat",
+      "Pais": "Serbia",
+      "zipcode": "57772"
+      },
+    "Secundaria":{
+          "OK":"false",
+          "Nombre":"Secunaria Abdul Alhzred",
+          "Años_Cursados":" 1988 - 1995",
+          "Estado":"Completo",
+          "Titulo":"Ecoconia",
+          "street": "Diagonal Veracruz de Ignacio de la Llave",
+            "suite": "2113",
+            "city": "Abasolo",
+            "Provincia": "Campeche",
+            "Pais": "Mexico",
+            "zipcode": "22140"
+          },
+    "Terciario":{
+          "OK":"true",
+          "Nombre":"Universidad of Michimiau",
+          "Años_Cursados":"2001 - 2009",
+          "Estado":"Completo",
+          "Titulo":"Lic. Sorbetes",
+          "street": "West Street",
+            "suite": "546",
+            "city": "Offaly",
+            "Provincia": "Offaly",
+            "Pais": "Ireland"
+    },
+    "Exp_Laboral":{
+      "trabajo_1":{
+              "OK":"true",
+               "Nombre":"TRUESTAR.",
+               "Años_Trabajados":"2010 - 2020",
+                "Puesto":"Asesoria",
+                "Info":"",
+               "street": "Mogens Thorsens gate",
+               "suite": "654",
+               "city": "GraEEnd",
+                "Provincia": "Telemark",
+                "Pais": "Norway"},
+      "trabajo_2":{
+              "OK":"true",
+               "Nombre":"CV Soft, S.A.",
+               "Años_Trabajados":"2015 - Actualidad",
+                "Puesto":"Gerente General",
+                "Info":"Ut laoreet lobortis mauris sit amet egestas. Curabitur faucibus condimentum leo in tristique. Nullam lobortis facilisis tempor. Sed rhoncus nulla congue turpis mattis, auctor interdum erat commodo. Sed tristique, nisl nec hendrerit venenatis, neque tellus placerat turpis, sit amet tempus quam dolor a nulla",
+               "street": "Kulas Light",
+               "suite": "Apt. 556",
+               "city": "Gwenborough",
+                "Provincia": "Neuquen",
+                "Pais": "Argentina"}},
+
+      "habilidades":{
+              "idiomas":"Ingles, Guaraní",
+              "software": "Paquete Office - Avanzado",
+              "otros": "Licencia de Conducción Profesional"
+    
+  }}]
